@@ -1,0 +1,501 @@
+nama,jenis_kelamin,umur,status_menikah,kehadiran,partisipasi_diskusi,nilai_tugas,aktivitas_elearning,ipk,status_akademik
+Kiki Ananda,Laki-laki,20,Belum Menikah,73,99,91,88,3.77,Lulus
+Putri Fauzi,Laki-laki,21,Belum Menikah,42,83,53,64,3.55,Lulus
+Mira Hidayat,Laki-laki,25,Belum Menikah,71,61,87,54,2.73,Lulus
+Mira Ananda,Laki-laki,23,Belum Menikah,44,88,62,81,3.59,Tidak
+Mira Septiani,Laki-laki,21,Menikah,54,92,67,64,3.02,Lulus
+Eka Hidayat,Perempuan,20,Menikah,53,71,92,49,1.52,Tidak
+Umi Santoso,Laki-laki,24,Belum Menikah,64,59,86,71,2.93,Lulus
+Nina Syahputra,Perempuan,19,Belum Menikah,57,60,84,65,1.66,Tidak
+Hana Septiani,Perempuan,20,Belum Menikah,77,100,99,69,3.87,Lulus
+Nina Syahputra,Perempuan,18,Belum Menikah,73,62,84,52,2.37,Tidak
+Lina Ramadhan,Perempuan,20,Menikah,88,54,83,47,3.29,Tidak
+Eka Ridwan,Laki-laki,25,Belum Menikah,52,85,48,71,2.93,Tidak
+Rian Syahputra,Perempuan,24,Belum Menikah,58,72,42,65,2.97,Lulus
+Tio Putri,Laki-laki,22,Belum Menikah,56,80,52,100,2.72,Lulus
+Tio Utami,Laki-laki,22,Belum Menikah,53,75,42,54,2.07,Tidak
+Putri Permana,Laki-laki,20,Belum Menikah,70,70,59,51,3.9,Tidak
+Umi Putri,Perempuan,25,Menikah,49,56,53,96,3.37,Lulus
+Aldi Gunawan,Laki-laki,20,Belum Menikah,98,80,87,83,3.57,Lulus
+Fajar Saputra,Laki-laki,18,Belum Menikah,100,66,61,79,1.91,Tidak
+Rian Pratama,Laki-laki,20,Belum Menikah,79,82,75,90,2.68,Lulus
+Lina Maulana,Laki-laki,23,Belum Menikah,82,49,96,98,3.42,Lulus
+Aldi Syahputra,Laki-laki,22,Belum Menikah,78,54,54,82,2.7,Lulus
+Mira Syahputra,Laki-laki,25,Belum Menikah,81,90,62,59,2.9,Lulus
+Cici Ridwan,Perempuan,22,Belum Menikah,57,95,81,46,3.39,Tidak
+Joko Hidayat,Laki-laki,21,Belum Menikah,49,80,76,82,2.26,Tidak
+Dina Putri,Perempuan,20,Belum Menikah,69,89,91,46,3.65,Lulus
+Bima Putri,Laki-laki,24,Belum Menikah,75,86,70,50,1.9,Tidak
+Mira Wulandari,Laki-laki,25,Belum Menikah,53,55,91,83,2,Tidak
+Umi Saputra,Laki-laki,23,Belum Menikah,66,50,52,62,3.94,Tidak
+Eka Siregar,Perempuan,21,Belum Menikah,85,69,69,84,2.07,Tidak
+Nina Mahardika,Perempuan,21,Belum Menikah,45,50,84,99,1.88,Tidak
+Gina Utami,Laki-laki,19,Belum Menikah,95,73,95,79,3.15,Lulus
+Aldi Septiani,Perempuan,25,Menikah,77,97,84,85,1.78,Lulus
+Cici Gunawan,Laki-laki,19,Menikah,64,74,57,44,2.69,Tidak
+Gina Ramadhan,Laki-laki,23,Belum Menikah,77,68,42,42,2.16,Tidak
+Aldi Hidayat,Perempuan,21,Belum Menikah,41,79,42,76,2.41,Tidak
+Eka Santoso,Perempuan,24,Belum Menikah,65,79,84,87,3.91,Lulus
+Mira Ridwan,Perempuan,25,Belum Menikah,85,79,60,60,3.79,Lulus
+Kiki Ananda,Perempuan,22,Belum Menikah,83,85,96,70,2.25,Lulus
+Eka Pratama,Perempuan,23,Belum Menikah,51,80,79,75,1.94,Lulus
+Oki Wulandari,Perempuan,21,Belum Menikah,67,51,67,98,1.82,Lulus
+Umi Ananda,Perempuan,21,Belum Menikah,97,44,61,93,2.23,Tidak
+Umi Lubis,Perempuan,20,Menikah,56,68,81,42,2.26,Tidak
+Umi Ridwan,Laki-laki,21,Menikah,69,60,84,72,2.75,Lulus
+Hana Lubis,Perempuan,22,Belum Menikah,89,63,49,55,2.52,Tidak
+Hana Pratama,Laki-laki,25,Belum Menikah,62,72,79,88,3.82,Lulus
+Tio Gunawan,Laki-laki,24,Menikah,78,68,69,90,2.66,Lulus
+Bima Fauzi,Perempuan,21,Belum Menikah,74,85,58,42,2.97,Tidak
+Oki Hidayat,Perempuan,22,Belum Menikah,67,47,50,44,1.51,Lulus
+Rian Wulandari,Laki-laki,24,Belum Menikah,58,93,99,76,1.65,Lulus
+Aldi Hidayat,Laki-laki,24,Belum Menikah,98,79,93,90,3.93,Lulus
+Joko Gunawan,Perempuan,23,Belum Menikah,96,90,65,91,3.58,Lulus
+Sari Putri,Laki-laki,22,Belum Menikah,65,53,70,90,2.57,Tidak
+Joko Hidayat,Laki-laki,21,Belum Menikah,83,59,66,60,3.68,Tidak
+Umi Syahputra,Perempuan,22,Belum Menikah,79,42,89,43,2.63,Lulus
+Tio Wijaya,Perempuan,19,Belum Menikah,51,53,68,64,1.67,Lulus
+Fajar Gunawan,Perempuan,21,Belum Menikah,83,57,99,74,3.04,Lulus
+Oki Syahputra,Laki-laki,24,Belum Menikah,80,65,58,45,2.86,Lulus
+Fajar Pratama,Perempuan,25,Belum Menikah,85,86,78,90,1.94,Lulus
+Nina Ananda,Perempuan,18,Belum Menikah,73,58,41,64,3.99,Tidak
+Rian Syahputra,Perempuan,18,Belum Menikah,100,76,85,73,2.85,Lulus
+Cici Septiani,Laki-laki,24,Belum Menikah,98,65,67,90,3.02,Lulus
+Tio Hidayat,Laki-laki,23,Belum Menikah,53,54,73,81,3.84,Lulus
+Aldi Siregar,Perempuan,23,Belum Menikah,85,51,91,44,2.14,Tidak
+Hana Syahputra,Laki-laki,22,Belum Menikah,86,59,58,67,3.28,Lulus
+Cici Santoso,Perempuan,18,Belum Menikah,96,79,92,65,3.2,Lulus
+Ivan Syahputra,Laki-laki,24,Belum Menikah,41,99,54,67,3.1,Tidak
+Gina Ramadhan,Perempuan,21,Belum Menikah,48,94,50,51,3.26,Lulus
+Fajar Utami,Laki-laki,23,Belum Menikah,66,57,51,45,2.77,Lulus
+Joko Siregar,Perempuan,22,Belum Menikah,87,85,85,95,2.68,Lulus
+Ivan Wulandari,Laki-laki,22,Belum Menikah,58,91,95,54,2.73,Lulus
+Oki Siregar,Perempuan,19,Belum Menikah,94,40,47,45,3.2,Tidak
+Cici Siregar,Perempuan,23,Belum Menikah,91,80,90,85,3.69,Lulus
+Joko Wulandari,Laki-laki,19,Belum Menikah,93,48,91,77,2.25,Tidak
+Rian Wulandari,Perempuan,20,Menikah,89,85,76,54,3.16,Lulus
+Kiki Pratama,Perempuan,24,Belum Menikah,57,84,84,54,3.99,Lulus
+Dina Santoso,Perempuan,18,Belum Menikah,88,58,57,45,3.62,Tidak
+Cici Hidayat,Laki-laki,21,Belum Menikah,91,78,46,43,3.5,Lulus
+Lina Mahardika,Perempuan,24,Belum Menikah,75,88,53,88,2.13,Tidak
+Mira Septiani,Laki-laki,21,Belum Menikah,98,41,91,55,2.36,Lulus
+Eka Wulandari,Laki-laki,18,Belum Menikah,41,84,73,99,3.9,Lulus
+Kiki Maulana,Laki-laki,25,Belum Menikah,54,77,51,68,2.48,Tidak
+Oki Ridwan,Laki-laki,21,Menikah,53,82,74,89,2.45,Tidak
+Gina Ridwan,Laki-laki,19,Belum Menikah,94,73,74,47,3.66,Lulus
+Bima Mahardika,Perempuan,21,Belum Menikah,94,76,79,72,2.28,Tidak
+Fajar Lubis,Laki-laki,22,Belum Menikah,86,48,77,84,1.73,Tidak
+Joko Fauzi,Perempuan,18,Belum Menikah,67,48,63,81,3.36,Tidak
+Sari Mahardika,Laki-laki,18,Belum Menikah,88,54,88,100,1.7,Tidak
+Dina Septiani,Perempuan,23,Belum Menikah,95,56,99,85,3.63,Lulus
+Eka Maulana,Laki-laki,25,Belum Menikah,42,83,88,65,2.07,Lulus
+Dina Septiani,Perempuan,24,Belum Menikah,82,70,52,69,3.38,Tidak
+Joko Maulana,Laki-laki,21,Belum Menikah,44,43,45,56,3.88,Tidak
+Tio Utami,Laki-laki,23,Belum Menikah,50,99,72,83,3.8,Lulus
+Kiki Permana,Laki-laki,21,Menikah,90,63,54,95,3.75,Lulus
+Rian Wulandari,Perempuan,22,Belum Menikah,89,92,56,53,3.58,Lulus
+Putri Ananda,Laki-laki,21,Belum Menikah,67,79,44,46,2.85,Tidak
+Gina Permana,Perempuan,20,Belum Menikah,44,86,53,98,2.92,Lulus
+Eka Ridwan,Laki-laki,23,Belum Menikah,65,41,98,95,3.31,Lulus
+Tio Mahardika,Perempuan,21,Belum Menikah,95,63,65,40,2.01,Lulus
+Joko Ananda,Laki-laki,19,Belum Menikah,88,43,61,73,3.65,Lulus
+Lina Gunawan,Laki-laki,18,Belum Menikah,46,84,54,68,2.39,Tidak
+Putri Ridwan,Perempuan,24,Belum Menikah,45,75,49,97,3.13,Tidak
+Aldi Santoso,Perempuan,18,Belum Menikah,85,64,60,50,3.85,Tidak
+Sari Siregar,Laki-laki,25,Belum Menikah,93,69,93,57,2.9,Lulus
+Bima Putri,Laki-laki,21,Belum Menikah,86,60,41,47,3.23,Tidak
+Dina Mahardika,Perempuan,20,Belum Menikah,53,86,42,97,3.89,Lulus
+Ivan Siregar,Perempuan,18,Belum Menikah,72,64,65,55,1.96,Tidak
+Eka Ramadhan,Laki-laki,23,Belum Menikah,79,46,79,65,1.52,Tidak
+Tio Fauzi,Laki-laki,25,Belum Menikah,54,58,43,77,2.86,Tidak
+Eka Gunawan,Perempuan,18,Belum Menikah,42,50,57,52,3.91,Lulus
+Oki Ramadhan,Laki-laki,22,Belum Menikah,53,59,49,57,2.57,Tidak
+Fajar Syahputra,Perempuan,19,Belum Menikah,48,94,92,62,2.83,Lulus
+Bima Permana,Perempuan,25,Belum Menikah,89,62,100,68,2.66,Lulus
+Bima Ramadhan,Perempuan,22,Belum Menikah,64,71,63,63,1.69,Tidak
+Gina Syahputra,Perempuan,21,Belum Menikah,41,62,48,63,3.78,Tidak
+Eka Ananda,Perempuan,25,Belum Menikah,67,66,53,96,2.78,Lulus
+Tio Permana,Laki-laki,22,Belum Menikah,72,63,49,61,3.81,Tidak
+Hana Ridwan,Perempuan,19,Belum Menikah,80,88,64,63,2.47,Lulus
+Dina Lubis,Laki-laki,22,Belum Menikah,71,94,100,54,3.15,Lulus
+Cici Fauzi,Laki-laki,21,Belum Menikah,70,68,47,93,3.94,Tidak
+Aldi Syahputra,Perempuan,22,Belum Menikah,79,87,59,60,1.66,Tidak
+Aldi Syahputra,Laki-laki,21,Belum Menikah,58,69,67,100,3.02,Lulus
+Sari Wijaya,Laki-laki,18,Belum Menikah,66,58,70,53,2.46,Lulus
+Sari Ridwan,Laki-laki,21,Menikah,85,48,85,71,3.94,Lulus
+Nina Ananda,Laki-laki,24,Belum Menikah,45,43,71,95,2.23,Lulus
+Dina Fauzi,Laki-laki,24,Belum Menikah,67,94,59,88,2.6,Lulus
+Tio Septiani,Laki-laki,25,Belum Menikah,81,59,66,77,2.28,Tidak
+Rian Ridwan,Perempuan,23,Menikah,50,43,42,54,3.29,Tidak
+Putri Pratama,Perempuan,19,Belum Menikah,63,62,87,82,2.62,Lulus
+Aldi Santoso,Laki-laki,19,Belum Menikah,62,75,97,81,3.43,Lulus
+Umi Hidayat,Perempuan,22,Belum Menikah,57,98,67,48,3.07,Lulus
+Umi Lubis,Perempuan,21,Menikah,58,78,47,86,3.48,Lulus
+Bima Pratama,Laki-laki,22,Belum Menikah,79,62,94,99,1.86,Tidak
+Sari Fauzi,Laki-laki,23,Menikah,53,77,43,52,2.73,Lulus
+Ivan Wijaya,Perempuan,18,Belum Menikah,57,77,54,71,2.08,Tidak
+Lina Ridwan,Laki-laki,18,Belum Menikah,83,51,57,96,1.67,Tidak
+Eka Wulandari,Perempuan,22,Belum Menikah,87,76,49,70,2.5,Lulus
+Ivan Syahputra,Laki-laki,19,Belum Menikah,67,70,49,92,1.58,Lulus
+Lina Gunawan,Perempuan,23,Belum Menikah,41,71,89,84,1.77,Lulus
+Sari Ridwan,Laki-laki,20,Belum Menikah,73,100,45,40,2.67,Tidak
+Oki Syahputra,Perempuan,22,Menikah,77,88,40,98,1.64,Tidak
+Oki Utami,Laki-laki,23,Belum Menikah,90,51,44,57,2.29,Tidak
+Tio Septiani,Laki-laki,23,Belum Menikah,63,59,40,91,2.37,Tidak
+Nina Mahardika,Perempuan,23,Belum Menikah,53,68,65,85,2.17,Tidak
+Gina Wulandari,Perempuan,19,Belum Menikah,62,42,62,84,2.88,Tidak
+Dina Lubis,Laki-laki,19,Belum Menikah,90,62,58,83,3.14,Lulus
+Oki Mahardika,Laki-laki,22,Belum Menikah,67,65,84,52,2.68,Tidak
+Dina Ramadhan,Perempuan,25,Menikah,97,84,53,88,3.63,Lulus
+Aldi Septiani,Laki-laki,24,Belum Menikah,47,77,75,64,3.01,Tidak
+Aldi Fauzi,Laki-laki,24,Belum Menikah,55,83,66,42,3.28,Tidak
+Gina Syahputra,Laki-laki,25,Belum Menikah,81,67,85,98,3.24,Lulus
+Umi Syahputra,Perempuan,20,Belum Menikah,68,89,70,58,2.78,Lulus
+Cici Syahputra,Perempuan,23,Belum Menikah,56,90,44,82,3.11,Tidak
+Hana Putri,Perempuan,18,Menikah,54,50,59,74,3.31,Lulus
+Aldi Ramadhan,Perempuan,20,Belum Menikah,79,50,48,70,2.89,Lulus
+Aldi Putri,Laki-laki,24,Belum Menikah,100,79,65,51,1.88,Lulus
+Oki Maulana,Laki-laki,22,Belum Menikah,81,62,78,97,3.63,Lulus
+Kiki Wulandari,Laki-laki,21,Belum Menikah,54,58,88,83,2.84,Lulus
+Nina Putri,Perempuan,21,Belum Menikah,52,54,64,46,1.52,Tidak
+Cici Ananda,Perempuan,19,Belum Menikah,87,43,46,59,1.93,Lulus
+Kiki Permana,Perempuan,25,Belum Menikah,73,55,65,65,3.81,Tidak
+Joko Hidayat,Perempuan,19,Belum Menikah,78,62,48,70,2.03,Tidak
+Ivan Permana,Perempuan,19,Belum Menikah,91,73,81,89,2.65,Lulus
+Nina Santoso,Laki-laki,22,Belum Menikah,80,78,44,49,1.92,Lulus
+Hana Lubis,Laki-laki,18,Belum Menikah,55,43,81,97,1.56,Lulus
+Gina Septiani,Laki-laki,22,Belum Menikah,79,40,65,40,3.92,Lulus
+Putri Pratama,Laki-laki,25,Belum Menikah,46,72,91,61,3.83,Lulus
+Hana Hidayat,Perempuan,21,Menikah,44,97,85,45,1.83,Lulus
+Aldi Santoso,Laki-laki,25,Belum Menikah,93,81,96,46,1.61,Tidak
+Nina Gunawan,Laki-laki,23,Belum Menikah,44,78,64,58,2.77,Tidak
+Kiki Wijaya,Perempuan,18,Belum Menikah,42,92,63,43,1.94,Tidak
+Umi Santoso,Perempuan,21,Belum Menikah,61,97,90,41,2.49,Lulus
+Dina Hidayat,Perempuan,25,Menikah,77,83,85,88,3.94,Lulus
+Ivan Ramadhan,Laki-laki,18,Belum Menikah,93,87,85,71,3.89,Lulus
+Eka Ananda,Perempuan,18,Menikah,85,42,76,67,2.62,Lulus
+Sari Gunawan,Perempuan,23,Belum Menikah,71,70,58,87,3.11,Lulus
+Ivan Gunawan,Laki-laki,22,Belum Menikah,51,70,90,94,2.01,Tidak
+Ivan Wulandari,Perempuan,18,Belum Menikah,68,55,79,83,3.05,Lulus
+Oki Pratama,Laki-laki,21,Menikah,59,97,55,67,2.44,Tidak
+Hana Gunawan,Perempuan,23,Menikah,91,44,45,96,3.54,Tidak
+Dina Ananda,Laki-laki,25,Belum Menikah,75,65,100,41,2.66,Lulus
+Aldi Ramadhan,Laki-laki,22,Belum Menikah,64,49,73,99,3.51,Lulus
+Oki Hidayat,Laki-laki,24,Belum Menikah,46,99,47,71,3.31,Tidak
+Oki Ridwan,Laki-laki,21,Belum Menikah,50,98,72,88,2.51,Lulus
+Tio Putri,Perempuan,24,Belum Menikah,94,43,74,58,2.25,Lulus
+Ivan Fauzi,Perempuan,19,Menikah,51,80,93,55,3.17,Lulus
+Putri Ananda,Perempuan,19,Belum Menikah,97,84,69,65,3.32,Lulus
+Putri Saputra,Laki-laki,19,Belum Menikah,72,48,84,68,2.72,Lulus
+Cici Gunawan,Laki-laki,24,Belum Menikah,76,65,83,54,3.71,Tidak
+Lina Fauzi,Laki-laki,23,Belum Menikah,94,62,75,40,3.45,Tidak
+Lina Ridwan,Laki-laki,18,Belum Menikah,100,94,86,85,3.19,Lulus
+Bima Septiani,Perempuan,23,Belum Menikah,60,59,50,66,3.68,Tidak
+Hana Wulandari,Laki-laki,20,Belum Menikah,53,74,50,94,2.87,Tidak
+Bima Septiani,Perempuan,18,Belum Menikah,98,68,71,74,3.79,Lulus
+Dina Ridwan,Perempuan,22,Belum Menikah,80,50,42,73,1.53,Tidak
+Aldi Siregar,Laki-laki,25,Belum Menikah,47,61,67,80,2.47,Tidak
+Hana Lubis,Perempuan,20,Belum Menikah,89,65,65,74,3.82,Lulus
+Kiki Utami,Laki-laki,23,Menikah,59,100,97,48,3.3,Lulus
+Putri Ramadhan,Perempuan,22,Belum Menikah,43,90,77,43,2.87,Tidak
+Oki Ramadhan,Perempuan,24,Belum Menikah,71,80,47,69,3.86,Tidak
+Tio Gunawan,Laki-laki,24,Belum Menikah,100,64,94,55,3.35,Lulus
+Cici Santoso,Perempuan,19,Belum Menikah,75,98,61,42,3.1,Tidak
+Lina Ananda,Perempuan,23,Belum Menikah,93,43,94,75,2.16,Tidak
+Oki Gunawan,Perempuan,23,Belum Menikah,74,65,60,84,3.41,Lulus
+Bima Fauzi,Laki-laki,22,Belum Menikah,87,88,60,47,2.46,Tidak
+Rian Ramadhan,Perempuan,25,Belum Menikah,40,59,57,89,2.91,Tidak
+Cici Fauzi,Perempuan,18,Belum Menikah,71,42,86,56,1.99,Tidak
+Aldi Ananda,Laki-laki,20,Belum Menikah,63,88,54,55,2.36,Lulus
+Tio Fauzi,Perempuan,20,Belum Menikah,78,62,60,55,2.23,Lulus
+Rian Ramadhan,Laki-laki,21,Belum Menikah,58,84,65,67,3.72,Lulus
+Bima Syahputra,Laki-laki,24,Belum Menikah,87,44,70,94,2.67,Lulus
+Hana Siregar,Laki-laki,21,Belum Menikah,96,91,92,61,3.87,Lulus
+Rian Mahardika,Laki-laki,25,Belum Menikah,40,94,80,79,3.95,Lulus
+Eka Santoso,Laki-laki,23,Belum Menikah,72,88,91,67,3.76,Lulus
+Joko Fauzi,Laki-laki,24,Belum Menikah,94,41,50,48,3.45,Lulus
+Rian Maulana,Laki-laki,21,Belum Menikah,89,97,42,55,2.25,Lulus
+Sari Maulana,Perempuan,23,Belum Menikah,40,53,80,45,3.16,Lulus
+Bima Ramadhan,Laki-laki,22,Belum Menikah,47,59,60,61,1.92,Lulus
+Joko Wulandari,Perempuan,18,Belum Menikah,78,45,52,57,2.58,Tidak
+Fajar Siregar,Perempuan,21,Belum Menikah,100,96,43,66,1.79,Lulus
+Eka Lubis,Laki-laki,22,Belum Menikah,43,62,50,73,1.67,Tidak
+Nina Mahardika,Perempuan,19,Belum Menikah,58,100,46,40,3.95,Tidak
+Umi Lubis,Perempuan,24,Menikah,60,92,60,58,3.02,Tidak
+Ivan Hidayat,Perempuan,23,Belum Menikah,89,89,55,70,2.07,Tidak
+Cici Putri,Perempuan,18,Belum Menikah,99,46,77,57,1.54,Tidak
+Nina Wulandari,Perempuan,20,Belum Menikah,82,100,83,69,3.24,Lulus
+Lina Wulandari,Perempuan,22,Menikah,78,58,77,48,3.66,Tidak
+Gina Pratama,Laki-laki,19,Belum Menikah,94,85,80,68,3.48,Lulus
+Tio Siregar,Laki-laki,22,Belum Menikah,52,49,96,100,3.44,Lulus
+Aldi Ridwan,Laki-laki,23,Belum Menikah,84,92,66,61,2.57,Lulus
+Mira Lubis,Laki-laki,18,Belum Menikah,57,65,58,99,1.75,Lulus
+Tio Maulana,Perempuan,20,Belum Menikah,45,44,76,63,2.49,Tidak
+Tio Mahardika,Perempuan,20,Menikah,84,57,72,50,1.88,Lulus
+Nina Utami,Laki-laki,25,Belum Menikah,59,51,100,62,3.68,Tidak
+Rian Septiani,Laki-laki,25,Belum Menikah,66,80,97,88,3.09,Lulus
+Fajar Fauzi,Perempuan,24,Belum Menikah,53,76,55,95,1.51,Tidak
+Nina Ananda,Laki-laki,22,Belum Menikah,60,68,46,55,3.13,Lulus
+Dina Ridwan,Laki-laki,24,Belum Menikah,68,93,62,49,2.87,Lulus
+Joko Septiani,Perempuan,19,Belum Menikah,84,56,94,73,2.92,Lulus
+Eka Santoso,Laki-laki,23,Belum Menikah,50,77,75,71,3.26,Tidak
+Tio Syahputra,Laki-laki,18,Belum Menikah,42,76,83,40,1.94,Tidak
+Hana Gunawan,Laki-laki,20,Belum Menikah,78,78,76,45,1.59,Tidak
+Putri Syahputra,Perempuan,23,Belum Menikah,62,41,47,76,1.92,Tidak
+Umi Ramadhan,Perempuan,25,Menikah,96,98,49,77,3.65,Lulus
+Eka Septiani,Laki-laki,25,Belum Menikah,74,72,77,89,3.84,Lulus
+Joko Fauzi,Laki-laki,22,Belum Menikah,99,54,72,74,3.86,Lulus
+Eka Hidayat,Laki-laki,21,Belum Menikah,48,79,76,81,3.81,Lulus
+Rian Mahardika,Laki-laki,19,Belum Menikah,83,56,51,86,1.75,Lulus
+Mira Putri,Perempuan,18,Belum Menikah,53,47,63,52,1.92,Tidak
+Eka Siregar,Perempuan,25,Belum Menikah,55,66,64,40,3.32,Tidak
+Nina Wulandari,Perempuan,24,Belum Menikah,88,40,52,43,3.61,Lulus
+Kiki Mahardika,Laki-laki,24,Belum Menikah,45,60,62,50,1.9,Tidak
+Umi Syahputra,Laki-laki,23,Belum Menikah,47,93,80,70,2.41,Tidak
+Bima Ananda,Laki-laki,25,Belum Menikah,73,76,71,54,2.4,Tidak
+Rian Ridwan,Laki-laki,20,Belum Menikah,98,77,99,71,3.82,Lulus
+Ivan Putri,Perempuan,18,Belum Menikah,60,95,65,71,3.25,Lulus
+Eka Wijaya,Laki-laki,24,Belum Menikah,66,59,88,97,2.21,Tidak
+Umi Putri,Perempuan,23,Belum Menikah,54,52,65,52,3.22,Tidak
+Hana Septiani,Perempuan,20,Belum Menikah,58,87,96,67,1.79,Tidak
+Cici Maulana,Laki-laki,18,Belum Menikah,80,82,53,51,2.91,Lulus
+Aldi Mahardika,Laki-laki,22,Belum Menikah,66,49,69,88,3.35,Lulus
+Kiki Siregar,Laki-laki,22,Belum Menikah,43,77,92,84,2.37,Lulus
+Fajar Pratama,Perempuan,20,Menikah,50,80,97,60,3.18,Lulus
+Putri Ramadhan,Laki-laki,18,Belum Menikah,73,46,91,90,3.79,Lulus
+Putri Wulandari,Laki-laki,23,Belum Menikah,59,60,53,57,2.4,Tidak
+Cici Saputra,Laki-laki,25,Belum Menikah,78,70,95,95,2.54,Lulus
+Aldi Wulandari,Perempuan,19,Belum Menikah,40,75,41,86,3.02,Tidak
+Gina Hidayat,Perempuan,19,Belum Menikah,53,49,79,96,1.97,Tidak
+Fajar Ridwan,Perempuan,24,Belum Menikah,97,67,63,46,2.46,Lulus
+Fajar Mahardika,Laki-laki,23,Belum Menikah,96,98,69,99,3.39,Lulus
+Ivan Ramadhan,Laki-laki,20,Belum Menikah,78,96,97,40,2.2,Lulus
+Aldi Putri,Perempuan,18,Belum Menikah,63,94,71,56,2.28,Tidak
+Tio Septiani,Perempuan,22,Menikah,90,96,84,45,1.93,Lulus
+Eka Hidayat,Laki-laki,19,Belum Menikah,60,83,95,45,2.16,Lulus
+Lina Ramadhan,Perempuan,19,Belum Menikah,90,44,60,90,2.16,Tidak
+Fajar Pratama,Laki-laki,18,Belum Menikah,73,87,43,52,2.61,Tidak
+Cici Putri,Perempuan,20,Belum Menikah,83,98,84,82,2.19,Tidak
+Tio Permana,Laki-laki,23,Belum Menikah,49,41,97,53,2.07,Lulus
+Hana Permana,Perempuan,25,Belum Menikah,64,77,44,88,3.67,Lulus
+Aldi Gunawan,Laki-laki,18,Belum Menikah,57,46,67,66,3.79,Lulus
+Mira Saputra,Perempuan,18,Belum Menikah,49,98,50,58,2.21,Tidak
+Nina Fauzi,Laki-laki,25,Belum Menikah,59,67,89,92,2.69,Lulus
+Putri Siregar,Laki-laki,23,Belum Menikah,60,43,76,91,1.83,Tidak
+Kiki Hidayat,Perempuan,18,Belum Menikah,63,66,97,74,3.62,Lulus
+Umi Ridwan,Perempuan,22,Belum Menikah,54,91,62,74,2.6,Lulus
+Aldi Hidayat,Laki-laki,22,Belum Menikah,56,70,78,93,3.82,Lulus
+Cici Saputra,Laki-laki,24,Belum Menikah,73,40,86,66,1.67,Lulus
+Bima Syahputra,Laki-laki,19,Belum Menikah,40,84,82,99,2.79,Lulus
+Dina Hidayat,Laki-laki,23,Belum Menikah,57,48,49,86,3.7,Lulus
+Putri Permana,Perempuan,21,Belum Menikah,41,90,57,52,2.46,Tidak
+Mira Santoso,Perempuan,20,Belum Menikah,95,97,66,42,2.03,Tidak
+Dina Ridwan,Laki-laki,18,Belum Menikah,66,64,52,71,3.06,Tidak
+Gina Ramadhan,Laki-laki,25,Belum Menikah,66,46,59,86,1.68,Tidak
+Fajar Putri,Perempuan,23,Belum Menikah,75,59,85,72,2.95,Lulus
+Lina Gunawan,Perempuan,19,Belum Menikah,43,67,77,70,3.91,Tidak
+Dina Mahardika,Perempuan,24,Belum Menikah,73,82,89,79,2.48,Lulus
+Eka Wulandari,Laki-laki,22,Menikah,52,83,43,58,3.98,Tidak
+Tio Saputra,Perempuan,22,Belum Menikah,72,86,69,79,3.53,Lulus
+Hana Septiani,Laki-laki,24,Belum Menikah,82,79,52,55,1.92,Tidak
+Umi Hidayat,Laki-laki,18,Belum Menikah,68,91,65,45,1.96,Tidak
+Nina Maulana,Perempuan,18,Belum Menikah,41,73,45,44,2.65,Tidak
+Nina Putri,Laki-laki,21,Belum Menikah,77,84,47,66,3.81,Tidak
+Eka Wulandari,Perempuan,21,Belum Menikah,41,95,48,55,3.15,Tidak
+Mira Permana,Perempuan,24,Belum Menikah,42,76,88,89,3.47,Lulus
+Kiki Lubis,Perempuan,22,Belum Menikah,52,85,94,97,2.52,Lulus
+Gina Syahputra,Laki-laki,23,Belum Menikah,100,62,94,46,1.77,Tidak
+Sari Utami,Laki-laki,20,Belum Menikah,82,56,67,81,2.41,Tidak
+Kiki Ramadhan,Perempuan,22,Belum Menikah,66,83,46,50,3.37,Lulus
+Putri Wulandari,Laki-laki,21,Belum Menikah,55,91,75,74,1.76,Tidak
+Kiki Putri,Perempuan,18,Belum Menikah,59,96,40,66,1.94,Tidak
+Oki Ramadhan,Perempuan,18,Menikah,55,52,62,57,1.76,Tidak
+Dina Ramadhan,Laki-laki,24,Menikah,96,69,46,57,3.08,Tidak
+Aldi Mahardika,Laki-laki,21,Belum Menikah,97,47,71,92,2.74,Lulus
+Ivan Septiani,Perempuan,19,Menikah,81,52,89,46,2.71,Tidak
+Lina Ananda,Perempuan,21,Belum Menikah,63,49,99,47,3.95,Tidak
+Bima Ananda,Perempuan,25,Belum Menikah,40,82,72,40,2.09,Tidak
+Joko Permana,Perempuan,19,Belum Menikah,46,46,51,43,2.95,Tidak
+Lina Ramadhan,Perempuan,24,Belum Menikah,86,100,69,79,3.64,Lulus
+Nina Ananda,Laki-laki,22,Belum Menikah,40,79,64,89,3.83,Lulus
+Mira Septiani,Perempuan,21,Belum Menikah,48,89,41,85,2.79,Tidak
+Eka Wulandari,Laki-laki,23,Menikah,81,96,80,82,2.75,Lulus
+Putri Putri,Laki-laki,18,Belum Menikah,56,55,52,42,3.58,Tidak
+Fajar Permana,Perempuan,24,Menikah,87,46,84,83,3.57,Lulus
+Ivan Hidayat,Perempuan,22,Belum Menikah,74,85,94,77,3.93,Lulus
+Eka Putri,Laki-laki,22,Menikah,60,43,55,47,3.09,Tidak
+Ivan Gunawan,Perempuan,23,Belum Menikah,77,53,40,98,3.23,Lulus
+Bima Putri,Perempuan,22,Belum Menikah,99,87,40,97,3.92,Lulus
+Lina Utami,Perempuan,25,Belum Menikah,100,47,50,83,3.89,Lulus
+Gina Lubis,Laki-laki,25,Belum Menikah,68,46,59,63,3.15,Tidak
+Oki Permana,Laki-laki,22,Belum Menikah,70,93,91,41,2.88,Lulus
+Mira Hidayat,Laki-laki,25,Belum Menikah,49,88,99,59,2.9,Lulus
+Gina Lubis,Perempuan,25,Belum Menikah,79,94,97,90,3.05,Lulus
+Nina Wijaya,Laki-laki,22,Belum Menikah,83,67,88,80,2.31,Lulus
+Nina Siregar,Perempuan,22,Belum Menikah,40,68,47,41,3.05,Tidak
+Tio Putri,Laki-laki,21,Belum Menikah,91,78,54,85,3.22,Lulus
+Bima Wijaya,Perempuan,22,Belum Menikah,63,50,93,75,2.32,Tidak
+Bima Ramadhan,Perempuan,19,Belum Menikah,70,60,79,95,3.25,Lulus
+Aldi Maulana,Perempuan,18,Belum Menikah,73,55,83,64,2.45,Lulus
+Bima Ridwan,Perempuan,24,Belum Menikah,41,43,96,52,2.12,Tidak
+Tio Putri,Laki-laki,19,Belum Menikah,59,43,58,43,2.84,Lulus
+Rian Utami,Perempuan,23,Belum Menikah,91,49,63,65,2.07,Tidak
+Hana Ramadhan,Laki-laki,23,Belum Menikah,78,64,57,59,2.47,Tidak
+Cici Utami,Perempuan,25,Belum Menikah,55,60,48,94,3.74,Tidak
+Ivan Fauzi,Laki-laki,19,Belum Menikah,54,72,94,77,3.09,Lulus
+Mira Siregar,Perempuan,25,Belum Menikah,92,75,52,89,2.75,Lulus
+Eka Fauzi,Laki-laki,22,Belum Menikah,44,60,66,80,2.34,Tidak
+Mira Syahputra,Laki-laki,24,Belum Menikah,55,47,98,87,1.93,Lulus
+Aldi Lubis,Perempuan,22,Belum Menikah,42,87,68,94,2.42,Tidak
+Joko Wulandari,Laki-laki,21,Belum Menikah,97,91,73,84,2.3,Tidak
+Joko Lubis,Laki-laki,20,Menikah,72,56,67,83,1.66,Lulus
+Sari Mahardika,Laki-laki,18,Belum Menikah,67,66,96,77,3.59,Lulus
+Eka Utami,Laki-laki,22,Menikah,91,58,60,60,3.29,Tidak
+Cici Permana,Laki-laki,24,Belum Menikah,68,42,96,69,3.63,Tidak
+Hana Maulana,Perempuan,24,Menikah,96,99,44,67,3.83,Lulus
+Fajar Lubis,Laki-laki,24,Belum Menikah,90,71,83,66,2.86,Lulus
+Cici Pratama,Laki-laki,23,Belum Menikah,76,93,97,77,3.72,Lulus
+Eka Maulana,Laki-laki,20,Belum Menikah,40,67,76,99,2.92,Lulus
+Oki Gunawan,Laki-laki,18,Belum Menikah,69,93,41,54,1.68,Tidak
+Aldi Pratama,Perempuan,22,Belum Menikah,98,88,56,50,2.55,Lulus
+Sari Fauzi,Laki-laki,21,Belum Menikah,54,67,63,51,2.27,Lulus
+Gina Hidayat,Perempuan,18,Belum Menikah,92,67,94,69,1.88,Lulus
+Aldi Hidayat,Laki-laki,21,Belum Menikah,74,88,54,74,1.89,Lulus
+Fajar Lubis,Laki-laki,24,Menikah,97,45,82,47,1.73,Tidak
+Nina Maulana,Perempuan,24,Belum Menikah,100,58,100,43,2.85,Lulus
+Aldi Wijaya,Laki-laki,24,Belum Menikah,92,63,96,57,2.82,Lulus
+Fajar Wulandari,Perempuan,22,Belum Menikah,57,57,81,53,3.64,Tidak
+Umi Santoso,Perempuan,19,Belum Menikah,45,52,69,71,2.38,Tidak
+Eka Maulana,Perempuan,19,Belum Menikah,80,72,86,71,2.86,Lulus
+Ivan Syahputra,Laki-laki,19,Belum Menikah,65,44,73,91,3.07,Tidak
+Mira Pratama,Laki-laki,23,Belum Menikah,91,92,84,71,3.95,Lulus
+Fajar Permana,Perempuan,22,Belum Menikah,55,53,69,89,3.86,Tidak
+Bima Siregar,Perempuan,23,Belum Menikah,72,44,74,49,3.7,Tidak
+Ivan Siregar,Perempuan,21,Belum Menikah,61,49,58,78,2.41,Tidak
+Aldi Santoso,Laki-laki,23,Belum Menikah,47,98,76,58,2.86,Lulus
+Tio Saputra,Perempuan,20,Belum Menikah,100,100,89,70,3.58,Lulus
+Nina Permana,Perempuan,22,Belum Menikah,57,79,60,73,3.13,Lulus
+Mira Maulana,Perempuan,21,Belum Menikah,41,91,65,62,3.42,Tidak
+Umi Ridwan,Perempuan,22,Belum Menikah,98,75,86,78,2.03,Lulus
+Nina Putri,Perempuan,19,Belum Menikah,79,58,66,77,2.12,Tidak
+Kiki Saputra,Laki-laki,21,Belum Menikah,79,75,98,86,1.94,Lulus
+Umi Pratama,Perempuan,21,Belum Menikah,65,61,91,80,2.43,Tidak
+Kiki Hidayat,Laki-laki,23,Belum Menikah,86,99,87,81,2.45,Tidak
+Putri Saputra,Laki-laki,22,Belum Menikah,88,80,44,54,2.78,Tidak
+Nina Wijaya,Laki-laki,23,Belum Menikah,65,86,96,46,2.97,Lulus
+Cici Siregar,Laki-laki,18,Menikah,93,88,52,71,2.67,Lulus
+Ivan Syahputra,Laki-laki,20,Belum Menikah,89,48,84,67,1.78,Tidak
+Gina Santoso,Perempuan,25,Belum Menikah,71,74,95,66,3.66,Lulus
+Bima Mahardika,Perempuan,24,Belum Menikah,52,62,45,59,2.47,Tidak
+Lina Saputra,Perempuan,25,Belum Menikah,64,68,64,44,1.73,Tidak
+Hana Gunawan,Laki-laki,22,Belum Menikah,55,58,80,89,2.03,Tidak
+Cici Mahardika,Perempuan,18,Belum Menikah,64,89,95,66,3.14,Lulus
+Dina Pratama,Laki-laki,19,Belum Menikah,67,79,79,88,2.79,Lulus
+Aldi Santoso,Laki-laki,19,Belum Menikah,73,80,60,67,3.99,Lulus
+Mira Septiani,Perempuan,20,Belum Menikah,63,55,82,53,1.95,Tidak
+Joko Gunawan,Perempuan,23,Belum Menikah,73,55,92,42,2.9,Lulus
+Bima Gunawan,Laki-laki,20,Belum Menikah,98,47,54,84,2.32,Tidak
+Putri Permana,Laki-laki,18,Belum Menikah,67,51,63,62,1.94,Tidak
+Tio Ridwan,Laki-laki,20,Belum Menikah,42,59,75,100,3.05,Tidak
+Ivan Hidayat,Laki-laki,24,Belum Menikah,71,52,46,73,1.83,Tidak
+Putri Mahardika,Laki-laki,18,Belum Menikah,67,58,73,79,3.36,Tidak
+Hana Ananda,Perempuan,20,Belum Menikah,95,83,68,61,3.89,Lulus
+Putri Hidayat,Laki-laki,22,Belum Menikah,94,44,55,59,2.3,Tidak
+Ivan Permana,Laki-laki,19,Belum Menikah,46,84,48,80,3.92,Tidak
+Hana Mahardika,Laki-laki,18,Menikah,86,85,87,72,3.04,Lulus
+Umi Hidayat,Laki-laki,22,Belum Menikah,52,80,56,61,2.62,Lulus
+Joko Utami,Perempuan,21,Belum Menikah,84,65,94,81,2.79,Lulus
+Kiki Mahardika,Perempuan,22,Belum Menikah,68,40,61,88,2.67,Tidak
+Mira Pratama,Laki-laki,19,Belum Menikah,46,41,88,53,2.25,Tidak
+Oki Siregar,Laki-laki,19,Menikah,56,81,85,49,2.49,Tidak
+Hana Wijaya,Laki-laki,24,Menikah,55,80,60,79,2.13,Tidak
+Fajar Saputra,Laki-laki,19,Belum Menikah,81,44,79,97,3.75,Lulus
+Ivan Ananda,Laki-laki,23,Belum Menikah,47,54,71,89,3.07,Tidak
+Nina Maulana,Perempuan,23,Belum Menikah,81,56,69,67,3.23,Tidak
+Ivan Permana,Perempuan,19,Belum Menikah,51,80,58,57,2.27,Tidak
+Eka Utami,Laki-laki,25,Belum Menikah,40,84,88,92,3.32,Lulus
+Sari Pratama,Laki-laki,22,Belum Menikah,80,72,66,98,2.66,Lulus
+Sari Wijaya,Perempuan,21,Belum Menikah,61,71,96,51,2.01,Tidak
+Ivan Lubis,Laki-laki,22,Belum Menikah,91,71,69,58,2.85,Lulus
+Kiki Ramadhan,Laki-laki,21,Belum Menikah,45,64,81,40,3.92,Lulus
+Umi Hidayat,Perempuan,21,Belum Menikah,54,51,50,67,1.9,Lulus
+Fajar Maulana,Laki-laki,24,Belum Menikah,70,48,82,41,2.31,Lulus
+Rian Syahputra,Perempuan,25,Belum Menikah,82,70,74,82,3.83,Lulus
+Tio Pratama,Perempuan,20,Belum Menikah,91,40,64,61,1.74,Tidak
+Eka Syahputra,Laki-laki,24,Belum Menikah,49,46,62,75,2.03,Tidak
+Mira Siregar,Laki-laki,22,Belum Menikah,80,67,67,41,1.67,Tidak
+Putri Ramadhan,Perempuan,24,Menikah,63,60,43,100,1.67,Tidak
+Hana Pratama,Perempuan,21,Belum Menikah,44,81,91,93,2.77,Lulus
+Putri Syahputra,Perempuan,25,Belum Menikah,50,83,84,98,1.98,Tidak
+Nina Ananda,Laki-laki,22,Belum Menikah,50,72,92,84,1.85,Lulus
+Cici Santoso,Laki-laki,19,Belum Menikah,52,80,67,40,3.8,Tidak
+Nina Wijaya,Perempuan,19,Belum Menikah,98,95,64,92,2.07,Tidak
+Rian Pratama,Perempuan,21,Belum Menikah,91,50,65,65,3.45,Tidak
+Lina Ramadhan,Laki-laki,18,Belum Menikah,86,42,48,84,3.9,Lulus
+Rian Wijaya,Perempuan,20,Belum Menikah,48,43,55,57,3.96,Tidak
+Ivan Gunawan,Laki-laki,20,Belum Menikah,50,53,99,51,3.2,Tidak
+Tio Putri,Perempuan,18,Belum Menikah,50,53,82,92,1.73,Lulus
+Umi Septiani,Laki-laki,20,Belum Menikah,57,49,64,68,3.05,Tidak
+Cici Ridwan,Laki-laki,22,Belum Menikah,43,69,64,72,3.76,Tidak
+Umi Septiani,Laki-laki,25,Belum Menikah,50,71,59,51,3.11,Tidak
+Nina Ridwan,Perempuan,18,Belum Menikah,53,76,47,43,2.8,Lulus
+Lina Ramadhan,Perempuan,25,Belum Menikah,87,76,68,90,3.18,Lulus
+Dina Wulandari,Laki-laki,22,Belum Menikah,74,95,75,85,3.65,Lulus
+Oki Maulana,Perempuan,22,Belum Menikah,44,52,85,43,2.14,Tidak
+Joko Wulandari,Perempuan,24,Belum Menikah,100,52,46,99,2.65,Lulus
+Rian Pratama,Perempuan,20,Belum Menikah,48,91,61,42,1.96,Lulus
+Bima Siregar,Perempuan,23,Belum Menikah,63,88,73,46,1.74,Tidak
+Nina Mahardika,Laki-laki,20,Belum Menikah,69,93,71,67,3.76,Lulus
+Umi Wulandari,Perempuan,25,Belum Menikah,77,62,53,97,2.81,Lulus
+Lina Santoso,Perempuan,20,Belum Menikah,43,77,49,44,2.56,Tidak
+Ivan Siregar,Perempuan,24,Belum Menikah,43,69,79,73,1.62,Tidak
+Umi Ananda,Perempuan,19,Belum Menikah,98,81,85,40,1.5,Tidak
+Cici Gunawan,Laki-laki,25,Belum Menikah,64,64,82,45,2.91,Lulus
+Lina Pratama,Perempuan,21,Belum Menikah,90,47,78,72,2.45,Lulus
+Cici Putri,Perempuan,18,Belum Menikah,60,85,100,80,1.8,Tidak
+Ivan Santoso,Laki-laki,18,Belum Menikah,90,69,76,86,2.46,Lulus
+Ivan Ramadhan,Perempuan,21,Menikah,42,47,40,66,1.51,Tidak
+Bima Mahardika,Perempuan,23,Belum Menikah,76,93,78,84,3.17,Lulus
+Oki Fauzi,Laki-laki,20,Belum Menikah,90,52,47,87,3.9,Lulus
+Hana Mahardika,Laki-laki,20,Belum Menikah,89,75,76,71,3.97,Lulus
+Eka Hidayat,Laki-laki,21,Menikah,92,87,51,44,3.85,Lulus
+Umi Ramadhan,Laki-laki,18,Belum Menikah,64,85,63,92,1.54,Tidak
+Dina Wulandari,Perempuan,20,Belum Menikah,94,43,52,94,2.97,Lulus
+Ivan Wijaya,Perempuan,25,Menikah,92,79,52,85,3.97,Lulus
+Gina Lubis,Perempuan,24,Belum Menikah,94,42,96,71,3.77,Lulus
+Nina Permana,Perempuan,24,Belum Menikah,75,79,54,60,1.96,Tidak
+Nina Hidayat,Perempuan,18,Belum Menikah,53,52,88,50,3.88,Tidak
+Tio Saputra,Laki-laki,23,Belum Menikah,78,63,46,87,2.77,Tidak
+Mira Utami,Laki-laki,18,Belum Menikah,75,48,75,87,3.54,Lulus
+Lina Mahardika,Perempuan,25,Belum Menikah,92,51,66,92,1.65,Tidak
+Dina Gunawan,Perempuan,24,Belum Menikah,80,45,83,91,2.56,Lulus
+Kiki Utami,Laki-laki,19,Belum Menikah,70,92,40,87,2.67,Lulus
+Putri Putri,Laki-laki,21,Belum Menikah,90,72,93,82,3.28,Lulus
+Lina Putri,Perempuan,25,Belum Menikah,59,84,68,68,2.17,Tidak
+Mira Fauzi,Laki-laki,20,Belum Menikah,55,97,84,87,2.55,Lulus
+Joko Septiani,Perempuan,18,Belum Menikah,91,87,51,89,3.82,Lulus
+Ivan Hidayat,Perempuan,21,Belum Menikah,89,96,65,56,2.01,Tidak
+Joko Permana,Perempuan,22,Belum Menikah,65,46,83,51,3.09,Lulus
+Bima Ramadhan,Perempuan,24,Belum Menikah,67,58,44,88,3.35,Tidak
+Rian Permana,Perempuan,20,Belum Menikah,75,90,83,49,2.16,Tidak
+Joko Saputra,Perempuan,18,Belum Menikah,90,87,48,41,3.72,Tidak
+Lina Santoso,Laki-laki,25,Menikah,83,82,70,41,3.31,Tidak
+Fajar Permana,Laki-laki,25,Belum Menikah,46,55,81,62,3.5,Tidak
+Putri Putri,Perempuan,25,Belum Menikah,41,55,89,49,2.58,Tidak
+Rian Hidayat,Perempuan,23,Belum Menikah,68,77,81,83,1.71,Tidak
+Fajar Gunawan,Perempuan,23,Belum Menikah,56,49,74,41,1.98,Lulus
+Mira Mahardika,Laki-laki,18,Belum Menikah,76,42,56,96,1.93,Lulus
+Hana Ridwan,Laki-laki,18,Belum Menikah,98,99,90,59,2.22,Lulus
+Eka Ananda,Laki-laki,20,Belum Menikah,46,87,85,97,2.1,Lulus
+Nina Ananda,Perempuan,23,Belum Menikah,73,55,96,95,1.86,Tidak
+Cici Ananda,Perempuan,25,Belum Menikah,46,75,81,66,3.28,Tidak
+Eka Ridwan,Laki-laki,21,Menikah,54,79,71,41,3.6,Lulus
+Mira Mahardika,Perempuan,25,Belum Menikah,43,57,67,58,2.22,Tidak
+Joko Syahputra,Laki-laki,18,Belum Menikah,95,63,95,78,1.51,Tidak
+Oki Utami,Perempuan,18,Belum Menikah,94,45,71,82,3.34,Lulus
+Nina Maulana,Laki-laki,21,Belum Menikah,41,94,100,59,2.9,Lulus
+Putri Ananda,Perempuan,20,Menikah,98,69,98,83,3.96,Lulus
+Umi Ramadhan,Perempuan,23,Belum Menikah,77,62,92,95,3.51,Lulus
+Sari Pratama,Perempuan,19,Belum Menikah,41,99,50,50,1.98,Lulus
+Dina Putri,Perempuan,24,Belum Menikah,45,76,93,82,3,Lulus
+Gina Septiani,Perempuan,23,Belum Menikah,59,77,96,94,3.47,Lulus
